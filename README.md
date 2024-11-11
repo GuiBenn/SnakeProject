@@ -36,7 +36,7 @@ Jeux Snake réalisée dans le cadre du cours IAs Réactives. Ce jeux comporte di
 
 Vous perdez la partie si :
 
-- **Collision avec une Pomme Empoisonnée** : La tête ou un segment de la queue touche une pomme empoisonnée.
+- **Collision avec une Pomme Empoisonnée** : La tête ou un véhicule de la queue touche une pomme empoisonnée.
 - **Collision avec les Bords** : La tête du serpent touche les bords de l'écran.
 - **Collision avec la Queue** : La tête du serpent touche l'un des véhicules de sa propre queue (à partir du troisième).
 
